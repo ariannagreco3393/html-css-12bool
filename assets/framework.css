@@ -12,7 +12,8 @@
     height: 40px;
     color: white;
     font-size: 12px;
-  }
+}
+
 
 
 .color-blue {
@@ -34,6 +35,17 @@
     transform: translate(-50%,-50%);
 }
 
+.mt-1 {
+    margin-top: 1rem;
+}
+
+.pt-2 {
+    padding-top: 2rem;
+}
+
+.p-05 {
+    padding: 0.5rem;
+}
 
 /* Grid structure */
 
@@ -162,9 +174,6 @@
     margin-left: calc((100% / 12) * 11);
 }
 
-.col-lg-offset-12 {
-    margin-left: calc((100% / 12) * 12);
-}
 
 
 
