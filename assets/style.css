@@ -1,0 +1,8 @@
+:root {
+    --green: rgba(0, 225, 101, 1);
+    --blue: rgba(0, 108, 250, 1);
+}
+
+h2 {
+    font-size: 20px;
+}
